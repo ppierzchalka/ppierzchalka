@@ -25,7 +25,6 @@
 <img src="https://devicons.github.io/devicon/devicon.git/icons/redux/redux-original.svg" alt="redux" width="20" height="20"/>
 <img src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original-wordmark.svg" alt="express" width="20" height="20"/></p><p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=ppierzchalka&show_icons=true&theme=synthwave" alt="ppierzchalka" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/username=ppierzchalka&layout=compact" alt="ppierzchalka" />
 </p>
 
 <p align="center">
