@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **przemyslawpierzchalka@gmail.com**
 
-<p align="left">
+<p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=ppierzchalka&show_icons=true&theme=synthwave" alt="ppierzchalka" />
 </p>
 
