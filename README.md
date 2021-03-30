@@ -1,6 +1,6 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.10.1/devicon.min.css">
 <h1 align="center">Hello there 🧔🏽, I'm Przemysław (Przemek) Pierzchałka</h1>
-<h3 align="center">A Junior JS developer from Lodz, Poland.</h3>
+<h3 align="center">A JS developer from Lodz, Poland.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ppierzchalka" alt="ppierzchalka" /> </p>
 
