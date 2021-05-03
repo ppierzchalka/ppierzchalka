@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [Triage wheel of misfortune](https://github.com/ppierzchalka/triage-wheel-of-misfortune)
 
-- 🌱 I’m currently learning **React, Vue**
+- 🌱 I’m currently learning **React, Vue, Pixi.js**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ppierzchalka](https://github.com/ppierzchalka)
 
