@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ppierzchalka" alt="ppierzchalka" /> </p>
 
-- 🔭 I’m currently working on [Triage wheel of misfortune](https://github.com/ppierzchalka/triage-wheel-of-misfortune)
+- 🔭 I’m currently working on some private project
 
-- 🌱 I’m currently learning **React, Vue, Pixi.js**
+- 🌱 I’m currently learning **LangChain, Nx**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ppierzchalka](https://github.com/ppierzchalka)
 
