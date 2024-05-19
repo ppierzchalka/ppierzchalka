@@ -11,12 +11,3 @@
 - 👨‍💻 All of my projects are available at [https://github.com/ppierzchalka](https://github.com/ppierzchalka)
 
 - 📫 How to reach me **przemyslawpierzchalka@gmail.com**
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ppierzchalka&show_icons=true&theme=synthwave" alt="ppierzchalka" />
-</p>
-
-<p align="center">
-<a href="https://linkedin.com/in/przemyslaw-pierzchalka" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="przemyslaw-pierzchalka" height="20" width="20" /></a>
-<a href="https://codesandbox.com/ppierzchalka" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="ppierzchalka" height="20" width="20" /></a>
-</p>
