@@ -2,11 +2,9 @@
 <h1 align="center">Hello there 🧔🏻‍♂️, I'm Przemysław (Przemek) Pierzchałka</h1>
 <h3 align="center">A FE developer from Lodz, Poland.</h3>
 
-- 🔭 I’m currently working on my personal website (adding a [digital garden](https://www.thunknotes.com/blog/what-is-a-digital-garden) to it)
-
 - 🌱 I’m currently learning **AI Usage (both as coding helpers and parts of FE apps), Monorepo tools (Nx, Turborepo, Lerna), CI/CD with Netlify and/or GH actions**
 
-- 👨‍💻 Visit my [personal website (work in progress)](https://ppierzchalka.is-a.dev/)
+- 👨‍💻 Visit my [personal website](https://ppierzchalka.is-a.dev/)
 
 - 📫 How to reach me **przemyslawpierzchalka@gmail.com**
 
